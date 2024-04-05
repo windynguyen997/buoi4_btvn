@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/buoi4_btvn/static/css/main.4f1516c2.css",
+    "main.js": "/buoi4_btvn/static/js/main.5ad29ead.js",
+    "index.html": "/buoi4_btvn/index.html",
+    "main.4f1516c2.css.map": "/buoi4_btvn/static/css/main.4f1516c2.css.map",
+    "main.5ad29ead.js.map": "/buoi4_btvn/static/js/main.5ad29ead.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4f1516c2.css",
+    "static/js/main.5ad29ead.js"
+  ]
+}
