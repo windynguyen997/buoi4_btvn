@@ -1,0 +1,18 @@
+.icon{
+    font-size: 25px;
+}
+ul{
+    list-style: none;
+}
+.navbar_1 li{
+    margin-top: 15px;
+}
+.navbar_1 i{
+    margin-top: 20px;
+}
+.inactive{
+    display: none;
+}
+.active{
+display: block;
+}
